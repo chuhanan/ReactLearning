@@ -83,7 +83,7 @@
 				return _react2.default.createElement(
 					'h1',
 					null,
-					str.hello
+					'hello react and webpack'
 				);
 			}
 		}]);
